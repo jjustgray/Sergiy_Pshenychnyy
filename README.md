@@ -3,7 +3,7 @@
 ## Step 1
 Clone repository in test_dir, open test_dir and change git branch
 ```
-git clone https://github.com/jjustgray/Sergiy_Pshenychnyy.git
+git clone https://github.com/jjustgray/Sergiy_Pshenychnyy.git test_dir
 cd test_dir
 git checkout WebUI
 ```
