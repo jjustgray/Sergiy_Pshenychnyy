@@ -1,1 +1,0 @@
-# Sergiy_Pshenychnyy
